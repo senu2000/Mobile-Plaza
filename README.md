@@ -1,14 +1,16 @@
-"Mobile-Plaza" - E-com platform based on microservices architecture
+# Mobile-Plaza
 
-Technologies -
-  Spring Boot - Micro-Services
-  Docker
-  Flyway
-  Keycloak
-  Resilience4J
-  Kafka
-  OpenAPI
-  JUnit 5
-  Grafana stack
-  Kubernetes
+An E-commerce platform built on microservices architecture.
 
+## Technologies Used
+
+- **Spring Boot**: Microservices framework  
+- **Docker**: Containerization platform  
+- **Flyway**: Database version control  
+- **Keycloak**: Identity and access management  
+- **Resilience4J**: Fault tolerance library  
+- **Kafka**: Event streaming platform  
+- **OpenAPI**: API documentation and design  
+- **JUnit 5**: Testing framework  
+- **Grafana Stack**: Monitoring and visualization  
+- **Kubernetes**: Container orchestration
